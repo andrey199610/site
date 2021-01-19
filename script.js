@@ -19,7 +19,7 @@ if(window.pageYOffset>400)
 header.style.background = 'linear-gradient(to right, #2f3dfc, #641187)'
  }
 else
-{header.style.paddingTop = '70px'; 
+{header.style.paddingTop = '20px'; 
 header.style.background = '' }
 });
  
