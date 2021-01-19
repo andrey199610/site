@@ -429,7 +429,9 @@ h3 {
     display: flex; }
   .header .hamburger {
     display: block; } }
-
+.header-container {
+   padding-top: 15px;
+}
 .hamburger {
   cursor: pointer;
   display: none;
