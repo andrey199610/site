@@ -687,11 +687,11 @@ h3 {
   .footer-contact_mail {
     margin-bottom: 10px; }
     .footer-contact_mail ::before {
-      content: url(/site/img/message.jpg);
+      content: url(/site/img/message.png);
       position: absolute;
       left: -40px; }
   .footer-contact_telefon ::before {
-    content: url(/site/img/telefon.jpg);
+    content: url(/site/img/telefon.png);
     position: absolute;
     left: -38px; }
   .footer-contact a {
