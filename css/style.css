@@ -325,7 +325,7 @@ h3 {
 
 .header {
   color: #ffffff;
-  background: url("/site/img/header.png") no-repeat 50% 50%;
+  background: url("/site/img/header.jpg") no-repeat 50% 50%;
   background-size: cover;
   position: relative;
   min-height: 100vh;
@@ -687,11 +687,11 @@ h3 {
   .footer-contact_mail {
     margin-bottom: 10px; }
     .footer-contact_mail ::before {
-      content: url(/site/img/message.png);
+      content: url(/site/img/message.jpg);
       position: absolute;
       left: -40px; }
   .footer-contact_telefon ::before {
-    content: url(/site/img/telefon.png);
+    content: url(/site/img/telefon.jpg);
     position: absolute;
     left: -38px; }
   .footer-contact a {
